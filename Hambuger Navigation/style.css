@@ -111,7 +111,7 @@ nav ul li + li + li {
 }
 
 .content img {
-  /* max-width: 100vw; */
+  max-width: 100vw;
   display: flex;
   align-items: center;
   justify-content: center;
